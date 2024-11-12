@@ -2,6 +2,9 @@
 
 LangChain Expression Language (LCEL) is a powerful tool for creating dynamic, interactive templates and expressions in LangChain. With LCEL, you can add logic and flexibility to your language models, making it easier to build intelligent, adaptable responses for chatbots, question-answering systems, and other AI applications. 🎉
 
+![1_X9hmWQYKaZevGO1SlGchGA](https://github.com/user-attachments/assets/92fa606e-642c-452f-b16e-8417b8104fdc)
+
+
 ## 📚 Overview
 
 LangChain's LCEL provides a way to define templates and expressions that adapt based on variables, conditions, and user inputs. LCEL gives you control to structure responses based on context, dynamically manage prompts, and implement logic directly within templates.
